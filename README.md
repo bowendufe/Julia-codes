@@ -1,2 +1,2 @@
 # comput_econ
-# code for computational economics 
+code for computational economics 
