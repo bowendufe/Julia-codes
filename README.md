@@ -1,2 +1,2 @@
-# comput_econ
-code for computational economics 
+# Julia_Macro
+This repo contains some codes to solve dynamic general equilibrium models.
